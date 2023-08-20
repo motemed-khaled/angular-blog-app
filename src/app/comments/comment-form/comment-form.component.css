@@ -1,0 +1,19 @@
+.comment-text {
+  color: var(--body-text-color);
+}
+
+label {
+  cursor: pointer;
+}
+
+input[type = text] {
+  display: block;
+  height: 60px;
+  padding-left: 20px;
+  font-size: 13px;
+  width: 100%;
+}
+
+textarea {
+  padding-left: 20px;
+}

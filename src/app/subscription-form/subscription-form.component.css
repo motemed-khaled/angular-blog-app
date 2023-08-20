@@ -1,0 +1,31 @@
+.card {
+  background-color: var(--secondary-color);
+
+}
+
+/* .form{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+} */
+.form-group , .button{
+  padding: 15px;
+}
+
+input[type = text] , input[type = email] {
+  display: block;
+  height: 60px;
+  padding-left: 20px;
+  font-size: 13px;
+  width: 100%;
+}
+
+.subs-text {
+  width: 500px;
+  color: var(--body-text-color);
+}
+
+.title {
+  color: var(--body-text-color);
+}
+
